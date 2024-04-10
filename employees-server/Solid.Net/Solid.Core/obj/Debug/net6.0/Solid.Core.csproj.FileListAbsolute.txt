@@ -1,0 +1,36 @@
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll

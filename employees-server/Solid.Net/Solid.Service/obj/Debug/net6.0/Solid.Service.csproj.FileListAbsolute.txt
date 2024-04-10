@@ -1,0 +1,45 @@
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll

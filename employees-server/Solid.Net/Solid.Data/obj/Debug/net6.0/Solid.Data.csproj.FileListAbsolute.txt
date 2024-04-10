@@ -1,0 +1,47 @@
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+D:\הוראה סמינרים\NET Core קורס\Solid.Net\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+C:\Users\User\Downloads\‏‏תיקיה חדשה (4)\Solid.Net\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+C:\Users\User\Documents\שנה ו\practicome\employees-server\Solid.Net\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll

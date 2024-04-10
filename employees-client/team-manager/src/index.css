@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.gradient-custom {
+  /* fallback for old browsers */
+  background: #cccccc!important;
+  
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to bottom right, #cccccc, #666666)!important;
+  
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to bottom right, #cccccc, #666666)!important;
+}
+  
+  .card-registration .select-input.form-control[readonly]:not([disabled]) {
+  font-size: 1rem;
+  line-height: 2.15;
+  padding-left: .75em;
+  padding-right: .75em;
+  }
+  .card-registration .select-arrow {
+  top: 13px;
+  }
+  /* עיצוב כפתורים */
+.btn {
+  background-color: #343a40 !important; /* צבע רקע אפור כהה */
+  border-color: #343a40 !important; /* צבע מסגרת אפור כהה */
+  color: #fff !important; /* צבע טקסט לבן */
+  border-radius: 0.5rem; /* חיתוך כפתור */
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease; /* אנימציה */
+}
+
+.btn:hover {
+  background-color: #495057 !important; /* צבע רקע כאשר העכבר מעליהם */
+  border-color: #495057 !important; /* צבע מסגרת כאשר העכבר מעליהם */
+}
+
+/* עיצוב מסגרת האינפוט */
+.input-group-text {
+  background-color: #343a40 !important; /* צבע רקע אפור כהה */
+  border-color: #343a40 !important; /* צבע מסגרת אפור כהה */
+  color: #fff !important; /* צבע טקסט לבן */
+  border-radius: 0.5rem 0 0 0.5rem; /* חיתוך מסגרת אינפוט */
+}
+
+/* צבע טקסט של האינפוט */
+.form-control {
+  color: #495057 !important; /* צבע טקסט אפור כהה */
+  border-radius: 0 0.5rem 0.5rem 0; /* חיתוך מסגרת אינפוט */
+}
+
+/* סימון על עיצוב של מסגרת האינפוט כאשר האינפוט מקבל פוקוס */
+.form-control:focus {
+  border-color: #343a40 !important; /* צבע מסגרת כאשר האינפוט מקבל פוקוס */
+  box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.25) !important; /* הצגת פוקוס */
+}
+/* צבע המסגרת במצב רגיל */
+.form-control {
+  border-color: #ced4da !important; /* צבע מסגרת אפור כהה */
+}
+
+/* צבע המסגרת במצב לחיצה */
+.form-control:focus {
+  border-color: #000000 !important; /* צבע מסגרת שחור בעת לחיצה */
+  box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.25) !important; /* הצגת פוקוס */
+}
+/* צבע המסגרת במצב רגיל */
+.custom-input {
+  border-color: transparent !important; /* צבע מסגרת שקופה */
+}
+
+/* צבע המסגרת במצב לחיצה */
+.custom-input:focus {
+  border-color: #000000 !important; /* צבע מסגרת שחור בעת לחיצה */
+}
+
+.vh-100 {
+  height: auto !important;
+}
