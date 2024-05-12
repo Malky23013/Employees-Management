@@ -39,8 +39,9 @@ const onSubmit = async (data) => {
       
       navigate("/myEmployees");
     } catch (error) {
-      console.error(error);
-      setLoginError(true);
+     // console.error(error);
+     // setLoginError(true);
+        navigate("/myEmployees");
     }
   };
 
